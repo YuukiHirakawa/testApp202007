@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        let sales = [3205.0, 3120.0, 3424.0, 3312.0, 3612.0, 3594.0, 3648.0, 38454.0, 3585.0, 3917.0, 4014.0]
+        let sales = [3205.0, 3120.0, 3424.0, 3312.0, 3612.0, 3594.0, 3648.0, 3845.0, 3585.0, 3917.0, 4014.0]
         setChart(values: sales)
     }
     

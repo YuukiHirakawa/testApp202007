@@ -7,5 +7,6 @@ target 'testApp202007' do
 
   # Pods for testApp202007
   pod 'Charts'
+  pod 'RealmSwift'
 
 end
